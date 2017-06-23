@@ -1,0 +1,21 @@
+{
+  "name": "BoggleLetters",
+  "version": "1.0.0",
+  "summary": "BoggleLetters pod",
+  "description": "BoggleLetters pod to produce boggle letters",
+  "homepage": "http://www.asynchrony.com",
+  "authors": "WWT Asynchrony Labs",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "git@gitlab.asynchrony.com:proj-661/ios-for-devs.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "BoggleLetters/**/*.{h,m,swift}",
+  "exclude_files": "BoggleLettersTests/*",
+  "ios": {
+    "frameworks": "Foundation"
+  },
+  "requires_arc": true
+}

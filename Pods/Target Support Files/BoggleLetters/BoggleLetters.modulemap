@@ -1,0 +1,6 @@
+framework module BoggleLetters {
+  umbrella header "BoggleLetters-umbrella.h"
+
+  export *
+  module * { export * }
+}

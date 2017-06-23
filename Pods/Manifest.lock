@@ -1,0 +1,16 @@
+PODS:
+  - BoggleLetters (1.0.0)
+
+DEPENDENCIES:
+  - BoggleLetters (from `../BoggleLetters/`)
+
+EXTERNAL SOURCES:
+  BoggleLetters:
+    :path: ../BoggleLetters/
+
+SPEC CHECKSUMS:
+  BoggleLetters: 7cb28dc00b4ad0e5750949f8136c6af0e3b185f8
+
+PODFILE CHECKSUM: cb6a1ea5f12fb3bca602938828c29b00fbdb2d6d
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BoggleLetters.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-AwesomeBoggle.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-AwesomeBoggleTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-AwesomeBoggleUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1FB2513A41891A7695B9E89D909147CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C4C9AA8C6917A1A41079AAF9AC55C7E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E396EFF540C1674C94721A742D7E29C8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE2F6B7343383E0EA31DA55605865D48</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
